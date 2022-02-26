@@ -1,0 +1,11 @@
+.ambulance-service{
+    display: flex;
+}
+.ambulance-form{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+}

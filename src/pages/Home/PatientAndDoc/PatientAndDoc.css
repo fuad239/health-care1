@@ -1,0 +1,23 @@
+.pateintAndDoc{
+    display: flex;
+    
+    justify-content: center;
+    column-gap: 10rem;
+    
+}
+.info{
+   
+    text-align: start;
+}
+.serveImage img{
+    height: 300px;
+}
+ul {
+    list-style: none;
+    align-self: start;
+  }
+  ul li::before {
+    content: "✅";
+    display: inline-block;
+    margin-right: 0.2rem;
+  }

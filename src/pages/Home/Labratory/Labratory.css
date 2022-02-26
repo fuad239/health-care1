@@ -1,0 +1,16 @@
+.labs{
+    display: flex;
+    
+    justify-content: start;
+    margin-top: 5rem;
+}
+
+.lab-img img{
+text-align:start ;
+height: 500px;
+width: 100%;
+align-content: start;
+}
+#lab-info{
+    margin-left: 10rem
+}
